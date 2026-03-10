@@ -1,0 +1,5 @@
+# Tell GitHub to ignore frontend files for language stats
+frontend/** linguist-vendored
+*.jsx linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
